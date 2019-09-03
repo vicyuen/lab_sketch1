@@ -1,0 +1,23 @@
+h1 {
+  color: black;
+  text-align: center;
+  font-family: roboto;
+}
+
+h2 {
+  color: black;
+  text-align: center;
+  font-family: roboto;
+}
+
+body {
+  background-color: #fff;
+}
+
+#Image {
+/*text-align: center;*/
+  /*display: inline;*/
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
